@@ -18,7 +18,7 @@ A lightweight, CSS-only 4-bar visualizer that sits in the extra controls area of
 ## 🛠 Installation
 
 ### Method 1: Marketplace (Not ready yet)
-If you have the Spicetify Marketplace installed, search for **"Spicetify minimal Visualizer"** and click install.
+If you have the Spicetify Marketplace installed, search for **"Minimal 4-Bar Visualizer"** and click install.
 
 ### Method 2: Manual (Recommended)
 1. Open your Spicetify `user.css` file.
