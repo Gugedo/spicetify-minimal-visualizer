@@ -5,7 +5,7 @@ A lightweight, CSS-only 4-bar visualizer that sits in the extra controls area of
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview.gif" alt="Minimal 4-Bar Visualizer Preview">
+  <video src="preview.mov" autoplay loop muted playsinline width="600"></video>
   <br>
   <b>Theme:</b> Text by darkthemer | <b>Color Scheme:</b> RosePine
 </p>
