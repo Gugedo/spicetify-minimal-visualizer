@@ -7,7 +7,7 @@ A lightweight, CSS-only 4-bar visualizer that sits in the extra controls area of
 <p align="center">
   <img src="preview.gif" alt="Minimal 4-Bar Visualizer Preview">
   <br>
-  <b>Theme:</b> Text by darkthemer | <b>Color Scheme:</b> RosePine
+  <b>Theme:</b> text by darkthemer | <b>Color Scheme:</b> RosePine
 </p>
 
 ## ✨ Features
