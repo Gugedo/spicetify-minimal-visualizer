@@ -1,0 +1,13 @@
+{
+  "name": "Minimal 4-Bar Visualizer",
+  "description": "A minimalist, CSS-only 4-bar visualizer for the playback bar.",
+  "main": "visualizer.css",
+  "authors": [
+    {
+      "name": "Gugedo",
+      "url": "https://github.com/Gugedo"
+    }
+  ],
+  "preview": "preview.gif",
+  "tags": ["snippet", "visualizer", "minimal", "animation"]
+}
