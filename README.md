@@ -10,9 +10,6 @@ A lightweight, CSS-only 4-bar visualizer that sits in the extra controls area of
   <b>Theme:</b> Text by darkthemer | <b>Color Scheme:</b> RosePine
 </p>
 
-> [!NOTE]
-> This visualizer is optimized for the **Text** theme (by **darkthemer**) using the **RosePine** color scheme.
-
 ## ✨ Features
 - **Independent Motion:** Each bar moves at its own rhythm for a more realistic feel.
 - **Universal Compatibility:** Language-independent logic (works in English, Italian, Spanish, etc.) by targeting SVG paths.
