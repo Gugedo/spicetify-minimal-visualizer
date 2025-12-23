@@ -1,6 +1,9 @@
 # Spicetify minimal Visualizer
 
 A lightweight, CSS-only 4-bar visualizer that sits in the extra controls area of the playback bar.
+
+![Preview](preview.gif)
+(Theme: text by darkthemer, Colorscheme: RosePine)
 ## ✨ Features
 - **Independent Motion:** Each bar moves at its own rhythm for a more realistic feel.
 - **Universal Compatibility:** Language-independent logic (works in English, Italian, Spanish, etc.) by targeting SVG paths.
@@ -24,9 +27,6 @@ You can tweak the visualizer by editing the variables at the top of the CSS file
 - `--viz-height`: Change the total height.
 - `--viz-bar-w`: Change width of each bar.
 - `--viz-off-y`: Adjust vertical alignment.
-
-## 📸 Preview
-![Preview](preview.gif)
 
 ## 📜 License
 MIT
