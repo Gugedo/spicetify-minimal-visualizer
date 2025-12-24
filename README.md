@@ -18,7 +18,8 @@ A lightweight, CSS-only 4-bar visualizer that sits in the extra controls area of
 ## 🛠 Installation
 
 ### Method 1: Marketplace (using +Add CSS)
-If you have the Spicetify Marketplace installed, go to `Marketplace > Snippets > + Add CSS` and then paste the content found in `visualizer.css`. 
+If you have the Marketplace installed, go to `Marketplace > Snippets > + Add CSS` and then paste the content found in `visualizer.css`.
+
 Edit this as you wish. If you're following this method, don't forget to add `!important` at the end of each property.
 
 ### Method 2: Manual (Recommended)
